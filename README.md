@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Tajemul Islam</h1>
-<h3 align="center">A passionate Computer Science student & aspiring Software Engineer from Bangladesh</h3>
+<h3 align="center">A aspiring Flutter Developer & from Bangladesh passionate Computer Science student  </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00AEEF&width=435&lines=Software+Developer;Flutter+%7C+Java+%7C+Python;AI+%7C+Computer+Vision+%7C+ML;Open+Source+Enthusiast;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00AEEF&width=435&lines=Application+Developer;Flutter+%7C+Dart+%7C+Java;AI+%7C+Computer+Vision+%7C+AI;Always+learning+something+new" />
 </p>
 
 ---
@@ -11,9 +11,9 @@
 
 - 🎓 I’m currently studying **Computer Science & Engineering** at Green University of Bangladesh  
 - 📱 Currently building apps with **Flutter & Dart**
-- 💻 Interested in **AI, Computer Vision, Machine Learning**, and **Software Development**
+- 💻 Interested in **App Development, Flutter, Software Development, Computer Vision, **, and **AI**
 - 🧠 Working on a thesis titled: *"Crop Disease Detection using Deep Learning"*
-- 🛠️ Languages/Tools I love: `Flutter`, `Java`, `Python`, `Git`, `Linux`, `Firebase`, `HTML/CSS`, `MySQL`
+- 🛠️ Languages/Tools I love: `Flutter`, `Dart`, `Java`, `C`, `Git`, `Linux`,`Python`, `Firebase`, `HTML/CSS`, `MySQL`
 
 ---
 
