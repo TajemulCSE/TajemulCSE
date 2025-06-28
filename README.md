@@ -21,14 +21,15 @@
 
 Here are a few of my favorite public projects:
 
-- [🎮 RegiSim – A Register Simulation Tool](https://github.com/TajemulCSE/RegiSim)  
-  *Educational tool for understanding register-level operations in computer architecture*
+- [🎮 RegiSim – A Register Simulation App](https://github.com/TajemulCSE/RegiSim)  
+  *An educational Flutter app simulating basic register operations like move, increment, decrement, clear, and shift, basic register-level operations in computer architecture*
+
+- [📱 LGD Flutter App](https://github.com/TajemulCSE/LGD)  
+  *Mobile app for managing eSports tournaments and schedules*
 
 - [📦 Rajshahi Mango Bazar (Java + Swing)](https://github.com/TajemulCSE/Rajshahi_Mango_Bazar_Project_Java_JavaSwing)  
   *A small desktop application for managing mango orders*
 
-- [📱 LGD Flutter App](https://github.com/TajemulCSE/LGD)  
-  *Mobile app for managing eSports tournaments and schedules*
 
 ---
 
