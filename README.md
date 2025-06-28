@@ -1,0 +1,65 @@
+<h1 align="center">Hi 👋, I'm Md. Tajemul Islam</h1>
+<h3 align="center">A passionate Computer Science student & aspiring Software Engineer from Bangladesh</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00AEEF&width=435&lines=Software+Developer;Flutter+%7C+Java+%7C+Python;AI+%7C+Computer+Vision+%7C+ML;Open+Source+Enthusiast;Always+learning+something+new" />
+</p>
+
+---
+
+## 🔥 About Me
+
+- 🎓 I’m currently studying **Computer Science & Engineering** at Green University of Bangladesh  
+- 📱 Currently building apps with **Flutter & Dart**
+- 💻 Interested in **AI, Computer Vision, Machine Learning**, and **Software Development**
+- 🧠 Working on a thesis titled: *"Crop Disease Detection using Deep Learning"*
+- 🛠️ Languages/Tools I love: `Flutter`, `Java`, `Python`, `Git`, `Linux`, `Firebase`, `HTML/CSS`, `MySQL`
+
+---
+
+## 🚀 Projects Highlights
+
+Here are a few of my favorite public projects:
+
+- [🎮 RegiSim – A Register Simulation Tool](https://github.com/TajemulCSE/RegiSim)  
+  *Educational tool for understanding register-level operations in computer architecture*
+
+- [📦 Rajshahi Mango Bazar (Java + Swing)](https://github.com/TajemulCSE/Rajshahi_Mango_Bazar_Project_Java_JavaSwing)  
+  *A small desktop application for managing mango orders*
+
+- [📱 LGD Flutter App](https://github.com/TajemulCSE/LGD)  
+  *Mobile app for managing eSports tournaments and schedules*
+
+---
+
+## 🌐 Connect With Me
+
+- 🔗 [Portfolio Website](https://tajemulcse.github.io)
+- 📧 [Email](mailto:tajemulislamgames@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tajemulcse/)
+- 🧑‍💻 [GitHub](https://github.com/TajemulCSE)
+
+---
+
+## 🛠️ Languages and Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TajemulCSE&show_icons=true&theme=react" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TajemulCSE&theme=react" />
+</p>
+
+---
+
+*Thanks for visiting my profile! Feel free to explore my projects and connect with me! 🚀*
