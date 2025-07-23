@@ -58,7 +58,7 @@ Here are a few of my favorite public projects:
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TajemulCSE&show_icons=true&theme=react" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TajemulCSE&theme=react" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=TajemulCSE&theme=react" />
 </p>
 
 ---
