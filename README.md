@@ -9,7 +9,7 @@
 
 ## 🔥 About Me
 
-- 🎓 I’m currently studying **Computer Science & Engineering** at Green University of Bangladesh (Final Year) 
+- 🎓 Studying **Computer Science & Engineering** at Green University of Bangladesh
 - 📱 Currently building apps with **Flutter & Dart**
 - 💻 Interested in **App Development, Flutter, Software Development, Computer Vision**, and **AI**
 - 🧠 Working on a thesis titled: *"Deep Learning-Based Detection of Potato Leaf Diseases with a Focus on Early and Late Blight Classification"*
@@ -35,7 +35,7 @@ Here are a few of my favorite public projects:
 
 ## 🌐 Connect With Me
 
-- 🔗 [Portfolio Website](https://tajemulcse.github.io)
+- 🔗 [Portfolio Website](https://tajemulcse.web.app/home)
 - 📧 [Email](mailto:tajemulislamgames@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tajemulcse/)
 - 🧑‍💻 [GitHub](https://github.com/TajemulCSE)
