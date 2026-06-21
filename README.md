@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md. Tajemul Islam</h1>
-<h3 align="center">A aspiring Flutter Developer from Bangladesh & passionate Computer Science student  </h3>
+<h1 align="center">Hi, I'm Md. Tajemul Islam</h1>
+<h3 align="center">A Flutter Developer from Bangladesh & passionate Computer Science student  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00AEEF&width=435&lines=Application+Developer;Flutter+%7C+Dart+%7C+Java;AI+%7C+Computer+Vision+%7C+ML;Always+learning+something+new" />
@@ -7,7 +7,7 @@
 
 ---
 
-## 🔥 About Me
+##  About Me
 
 - 🎓 Studying **Computer Science & Engineering** at Green University of Bangladesh
 - 📱 Currently building apps with **Flutter & Dart**
@@ -17,18 +17,11 @@
 
 ---
 
-## 🚀 Projects Highlights
+## Projects Highlights
 
 Here are a few of my favorite public projects:
 
-- [🎮 RegiSim – A Register Simulation App](https://github.com/TajemulCSE/RegiSim)  
-  *An educational Flutter app simulating basic register operations like move, increment, decrement, clear, and shift, basic register-level operations in computer architecture*
-
-- [📱 LGD Flutter App](https://github.com/TajemulCSE/LGD)  
-  *Mobile app for managing eSports tournaments and schedules*
-
-- [📦 Rajshahi Mango Bazar (Java + Swing)](https://github.com/TajemulCSE/Rajshahi_Mango_Bazar_Project_Java_JavaSwing)  
-  *A small desktop application for managing mango orders*
+Please checkout my portfolio for my Projects, [My Projects](https://tajemulcse.web.app/projects)
 
 
 ---
