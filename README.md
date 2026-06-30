@@ -16,6 +16,14 @@
 - 🛠️ Languages/Tools I love: `Flutter`, `Dart`, `Java`, `C`, `Git`, `Linux`, `Firebase`, `HTML/CSS`, `MySQL`,`Python`
 
 ---
+##  What I can do in Flutter
+
+- Pixel-perfect App from Figma/Adobe XD/Any type of design/Photos
+- Smooth App performance with Riverpod/Provider.
+- Secure Backend API integration with Firebase or Custom APIs.
+- Apple App Store & Play Store deployment.
+
+---
 
 ## Projects Highlights
 
